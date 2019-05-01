@@ -1,6 +1,6 @@
 # Vagrantbox RancherOS Lab
 
-[![Vagrant](https://img.shields.io/badge/vagrant-rancheros_lab-orange.svg)]()
+![Vagrant](https://img.shields.io/badge/vagrant-rancheros_lab-orange.svg) ![vagrant-rancheros-lab](https://img.shields.io/github/issues/spy86/vagrant-rancheros-lab.svg) ![vagrant-rancheros-lab](https://img.shields.io/github/forks/spy86/vagrant-rancheros-lab.svg) ![vagrant-rancheros-lab](https://img.shields.io/github/stars/spy86/vagrant-rancheros-lab.svg) ![vagrant-rancheros-lab](https://img.shields.io/github/license/spy86/vagrant-rancheros-lab.svg) ![vagrant-rancheros-lab](https://img.shields.io/twitter/url/https/github.com/spy86/vagrant-rancheros-lab.svg?style=social)
 
 ## Prerequisites
 * Vagrant - https://releases.hashicorp.com/vagrant/2.2.4/vagrant_2.2.4_x86_64.msi
